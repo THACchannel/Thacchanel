@@ -13,3 +13,7 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg logo="https://RECORD TV" group-#title="RECORD TV",TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg logo="https://RECORD TV" group-#title="RECORD TV",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg logo="https://RECORD TV" group-#title="RECORD TV",TV JORNAL
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
