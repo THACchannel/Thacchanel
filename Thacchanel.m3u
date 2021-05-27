@@ -9,6 +9,14 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:-1,RECORD GO
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1,RECORD BH
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_480_av-p.m3u8
+#EXTINF:-1,RECORD DF
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+#EXTINF:-1,RECORD BA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:-1,RECORD PA
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 #EXTINF:-1,RECORD NEWS
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1,BAND
