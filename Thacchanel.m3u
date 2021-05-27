@@ -7,6 +7,10 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8
 #EXTINF:-1,RECORD RS
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1,RECORD GO
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:-1,RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1,BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1,SBT
