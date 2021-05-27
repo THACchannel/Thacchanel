@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,GLOBO
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8
+#EXTINF:-1,GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8?nimblesessionid=
 #EXTINF:-1 tvg logo="https://RECORD TV" group-#title="RECORD TV",RECORD TV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
@@ -31,8 +33,14 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1,SBT
 http://wbeo5ubp2y.singularcdn.net.br/TV_SOROCABA_HD_PFZ/tracks-v2a1/mono.m3u8
+#EXTINF:-1,SBT GO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1,SBT PR
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1,SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,SBT PI
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:-1,TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1,TV PAMPA
