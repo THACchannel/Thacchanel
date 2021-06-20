@@ -35,6 +35,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1,BAND NEWS
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1,REDE TV
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
 #EXTINF:-1,SBT
 http://wbeo5ubp2y.singularcdn.net.br/TV_SOROCABA_HD_PFZ/tracks-v2a1/mono.m3u8
 #EXTINF:-1,SBT GO
