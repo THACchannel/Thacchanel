@@ -49,7 +49,7 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
 #EXTINF:-1,SBT MT
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1,SBT MG
+#EXTINF:-1,SBT MA
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 #EXTINF:-1,TV GAZETA
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
@@ -59,3 +59,5 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,TV JORNAL
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1,A&E
+http://link.goldpremium.xyz:8080/fgefgwgwdsgdeqwf/paindwelsnadeaww/469
