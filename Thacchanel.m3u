@@ -17,8 +17,6 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:,RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/.m3u8
-#EXTINF:,RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
 #EXTINF:,RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/.m3u8
 #EXTINF:,GLOBO
@@ -109,5 +107,13 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:,A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+#EXTINF:,5RTV
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:,LA RED
+https://d2tr4gdfol9ja.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:,ADN 40
+http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:,MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:,MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
