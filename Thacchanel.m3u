@@ -5,6 +5,8 @@ http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/05.m3u8
 http://live-hls-web-aje.getaj.net/AJE-b/01.m3u8
 #EXTINF:,BBC WORLD NEWS
 http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:,RTPi
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/.m3u8
 #EXTINF:,RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/.m3u8
 #EXTINF:,GLOBO
@@ -73,3 +75,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/.m3u8
 #EXTINF:-1,TV BRASIL
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/.m3u8
+#EXTINF:,REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/.m3u8
+#EXTINF:,NOVO TEMPO
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
