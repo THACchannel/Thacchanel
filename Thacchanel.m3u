@@ -85,3 +85,9 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/.m3u8
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/.m3u8
 #EXTINF:,NOVO TEMPO
 http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:,SKY SPORTS 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:,SETANTA SPORTS
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
+#EXTINF:,FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
