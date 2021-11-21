@@ -9,6 +9,8 @@ http://live-hls-web-aje.getaj.net/AJE-b/01.m3u8
 http://ott-cdn.ucom.am/s24/04.m3u8
 #EXTINF:,RT
 https://rt-glb.gcdn.co/live/rtusa/playlist_4500Kb.m3u8
+#EXTINF:,EURONEWS
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:,RAI NEWS 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:,RTP
@@ -66,11 +68,9 @@ http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/.m3u8
 #EXTINF:,SBT PI
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:,SBT MA
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v1a1/mono.m3u8
 #EXTINF:,SBT MT
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:,SBT MA
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 #EXTINF:,TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:,TERRA VIVA
