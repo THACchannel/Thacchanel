@@ -113,7 +113,11 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:,ADN 40
 http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+#EXTINF:,324 NOTICES
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 #EXTINF:,MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:,MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:,ALJAZEERA
+http://live-hls-web-aja.getaj.net/AJA/01.m3u8
