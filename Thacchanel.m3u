@@ -3,6 +3,10 @@
 http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/05.m3u8
 #EXTINF:,ALJAZEERA
 http://live-hls-web-aje.getaj.net/AJE-b/01.m3u8
+#EXTINF:,BBC WORLD NEWS
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:,RTP 3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/.m3u8
 #EXTINF:,GLOBO
 http://tv.factoryiptv.com:80/cassia123/cassia1234/42970
 #EXTINF:,RECORD TV
@@ -49,6 +53,8 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:,SBT PE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:,TV JORNAL
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/.m3u8
 #EXTINF:,SBT PI
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 #EXTINF:,SBT MA
@@ -61,9 +67,9 @@ http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:,TV JORNAL
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 #EXTINF:,CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,A&E
-http://link.goldpremium.xyz:8080/fgefgwgwdsgdeqwf/paindwelsnadeaww/469.m3u8
+#EXTINF:,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/.m3u8
+#EXTINF:-1,TV BRASIL
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/.m3u8
