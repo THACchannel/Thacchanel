@@ -11,10 +11,14 @@ http://ott-cdn.ucom.am/s24/04.m3u8
 https://rt-glb.gcdn.co/live/rtusa/playlist_4500Kb.m3u8
 #EXTINF:,EURONEWS
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:,24 HORAS
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:,RAI NEWS 24*
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:,RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/.m3u8
+#EXTINF:,RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
 #EXTINF:,RTP 3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/.m3u8
 #EXTINF:,GLOBO
@@ -97,3 +101,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:,DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:,CARACOL TV
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:,26 TV
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:,TELEFE
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:,A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+#EXTINF:,MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
