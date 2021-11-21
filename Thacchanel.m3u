@@ -107,6 +107,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:,A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+#EXTINF:,AMERICA TUCUMAN
+http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:,5RTV
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:,LA RED
@@ -121,3 +123,11 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:,ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:,ALJAZEERA
+http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:,BFM PARIS
+http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
+#EXTINF:,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:,ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
