@@ -120,9 +120,13 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u
 #EXTINF:,SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:,SETANTA SPORTS
+https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:,SETANTA SPORTS
 https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 #EXTINF:,VIASAT SPORT
 http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:,TRT SPORT
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:,FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
 #EXTINF:,REDBULL TV
@@ -131,6 +135,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:,DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:,AD SPORTS
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+#EXTINF:,CNN CHILE
+http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:,CARACOL TV
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:,26 TV
@@ -159,6 +167,8 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:,MULTIMEDIOS
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:,MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:,ALJAZEERA
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:,ALJAZEERA
