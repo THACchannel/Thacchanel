@@ -147,6 +147,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:,A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+#EXTINF:,NET
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:,AMERICA TUCUMAN
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:,RIO NEGRO
@@ -157,6 +159,8 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:,LA RED
 https://d2tr4gdfol9ja.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:,TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 #EXTINF:,ADN 40
 http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:,RTP
@@ -183,8 +187,12 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:,ALJAZEERA
 http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:,EURONEWS
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:,ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:,FRANCE 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:,BFM PARIS
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
 #EXTINF:,CGTN
