@@ -75,8 +75,12 @@ https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v1a1/mono.m3u8
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:,TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:,TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:,AGRO BRASIL
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:,CATVE
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:,TVE RS
@@ -87,6 +91,12 @@ http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/.m3u8
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/.m3u8
 #EXTINF:,NOVO TEMPO
 http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:,TV EVANGELIZAR
+http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8
+#EXTINF:,CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:,PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:,SKY SPORTS 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:,SETANTA SPORTS
@@ -133,7 +143,13 @@ http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
 #EXTINF:,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:,AUSTRALIA CHANNEL
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:,NEWS 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:,OE24
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
+#EXTINF:,NOTELE
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
