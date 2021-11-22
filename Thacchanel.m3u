@@ -163,6 +163,8 @@ http://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:,324 NOTICES
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
+#EXTINF:,SIC
+http://live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:,MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:,MULTIMEDIOS
@@ -195,3 +197,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:,MA TELE
 https://594a365b4a1b2.streamlock.net/matele/live/playlist.m3u8
+#EXTINF:,CINEMAN
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:,FILMZONE
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:,KINOMAN
+http://ott-cdn.ucom.am/s94/index.m3u8
