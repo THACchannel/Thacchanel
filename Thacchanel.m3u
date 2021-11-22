@@ -43,6 +43,8 @@ https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_480_av-p.m3u8
 #EXTINF:,RECORD RN
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:,RECORD ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 #EXTINF:,BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/.m3u8
 #EXTINF:,BAND PA
@@ -111,6 +113,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/.m3u8
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 #EXTINF:,TV CAMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:,TV DIARIO
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSrNnUF9G-6K4RMsQ9B6Zk4)/dm/3/x7txn7q/s/live-2.m3u8
 #EXTINF:,TV POVO
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 #EXTINF:,TV UFG
@@ -157,6 +161,8 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:,MULTIVISION
 http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:,CANAL 4
+http://5cd577a3dd8ec.streamlock.net:1935/canal4/smil:manifest.smil/.m3u8
 #EXTINF:,HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:,LA RED
@@ -193,18 +199,30 @@ http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:,ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:,CBC
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:,FRANCE 24*
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/04.m3u8
 #EXTINF:,FRANCE 24*
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:,BFM
+https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/profile_1/.m3u8
 #EXTINF:,BFM PARIS
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
+#EXTINF:,BFM LYON
+http://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8
 #EXTINF:,DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
 #EXTINF:,TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:,CBSN
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 #EXTINF:,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:,CGTN
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:,CGTN
+http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:,AUSTRALIA CHANNEL
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:,NEWS 24
