@@ -109,8 +109,12 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 #EXTINF:,AMERICA TUCUMAN
 http://45.6.4.154/americatuc/vivo.m3u8
+#EXTINF:,RIO NEGRO
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:,5RTV
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:,MULTIVISION
+http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:,LA RED
 https://d2tr4gdfol9ja.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:,ADN 40
@@ -129,5 +133,7 @@ http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
 #EXTINF:,CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:,NEWS 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:,ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
