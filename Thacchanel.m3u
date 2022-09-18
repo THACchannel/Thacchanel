@@ -1,4 +1,10 @@
 #EXTINF:,GLOBO
 http://pfsv.io:80/ChetRicardo2/123456/394
+#EXTINF:,RECORD SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:,RECORD MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:,BAND
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/.m3u8
+#EXTINF:,SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
